@@ -140,7 +140,6 @@ Calculator.prototype.checkboxEvent = function (e) {
     this.updateTotal();
 };
 
-
 document.addEventListener("DOMContentLoaded", function () {
     const form = document.querySelector(".calc__form");
     const summary = document.querySelector(".calc__summary");
