@@ -6,7 +6,7 @@ BestShop is a simple website of a company which offers online store management s
 Clone the source repository from Github. On the command line enter:
 
 ```
-git clone 
+git clone https://github.com/Aga6410/BestShopProject.git
 ```
 
 Project setup:
